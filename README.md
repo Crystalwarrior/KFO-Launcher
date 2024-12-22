@@ -51,6 +51,8 @@ download, or even display a message.
 
 Download URLs must be direct links.
 
+If you use the `hash` option, it must be SHA-1.
+
 ### Deploying new versions
 
 #### Client
